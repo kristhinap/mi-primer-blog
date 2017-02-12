@@ -29,6 +29,9 @@ h1,h2,h3,h4{
 .save{
   float: right;
 }
+.page-header h3{
+  color:#ffffff;
+}
 
 .post-form textarea, .post-form input{
   with: 100%;
@@ -51,12 +54,12 @@ h1,h2,h3,h4{
 
 .date{
   color: #000033;
-  font-family: Dosis;
-  font-style: oblique;
+  font-family: 'Dosis';
+  font-style: italic;
 }
 
 p{
-  font-family: Dosis;
+  font-family: 'Dosis';
   font-size: 12.5pt;
 
 }
