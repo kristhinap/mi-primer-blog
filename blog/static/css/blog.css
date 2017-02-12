@@ -7,7 +7,7 @@ body {
 }
 
 .page-header{
-  background-color: #ff9400;
+  background-color:  #4d004d;
   margin-top:0;
   padding: 20px 20px 20px 40px;
 }
@@ -46,9 +46,17 @@ h1,h2,h3,h4{
 }
 
 .post h1 a, .post h1 a:visited{
-  color: #000000;
+  color: #4d004d;
 }
 
 .date{
-  color: #7DC9E3;
+  color: #000033;
+  font-family: Dosis;
+  font-style: oblique;
+}
+
+p{
+  font-family: Dosis;
+  font-size: 12.5pt;
+
 }
